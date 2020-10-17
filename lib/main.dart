@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Etornam VPN',
+      title: 'Etorooooooooonam VPN',
       debugShowCheckedModeBanner: false,
       theme: customLightTheme(context),
       darkTheme: customDarkTheme(context),
